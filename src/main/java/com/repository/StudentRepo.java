@@ -8,5 +8,5 @@ import com.entity.Student;
 
 @Repository
 public interface StudentRepo extends CrudRepository<Student, Long>{
-	
+
 }
